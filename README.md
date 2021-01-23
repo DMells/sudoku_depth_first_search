@@ -50,7 +50,7 @@ due to needing to store possibly invalid paths. [1][2]
  - Aid in the selection of which square to fill in next
  - Aid the decision of which value for that square to try next
  
- ##### Method
+ ##### Procedure
  1. Upon initialisation of each puzzle, the possible values for each square are calculated based on the starting numbers 
  on the board. These remaining possible values are determined by whether or not they would break the constraints 
  outlined above.
