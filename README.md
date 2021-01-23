@@ -1,5 +1,5 @@
 ### Python Sudoku Solver with Backtracking Depth-First Search & Heuristics
-<i>David Mellor (2021)</i>
+<i>David Mellor (Jan 2021)</i>
 
 ### Abstract
 This project solves a series of Sudoku challenges with varying difficulties by applying the backtracking algorithm alongside 
